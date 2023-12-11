@@ -1,0 +1,15 @@
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\bin\Debug\net8.0\ShapeCalculationTool.exe
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\bin\Debug\net8.0\ShapeCalculationTool.deps.json
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\bin\Debug\net8.0\ShapeCalculationTool.runtimeconfig.json
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\bin\Debug\net8.0\ShapeCalculationTool.dll
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\bin\Debug\net8.0\ShapeCalculationTool.pdb
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.csproj.AssemblyReference.cache
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.AssemblyInfoInputs.cache
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.AssemblyInfo.cs
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.csproj.CoreCompileInputs.cache
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.dll
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\refint\ShapeCalculationTool.dll
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.pdb
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ShapeCalculationTool.genruntimeconfig.cache
+C:\Users\Pc-User\Documents\IT Portfolio\CSharp\ShapeCalculationTool\obj\Debug\net8.0\ref\ShapeCalculationTool.dll
